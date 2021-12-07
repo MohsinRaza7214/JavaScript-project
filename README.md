@@ -1,0 +1,2 @@
+# JavaScript-project
+SMIT project
